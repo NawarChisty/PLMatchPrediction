@@ -1,0 +1,21 @@
+Manchester City,100	     
+Manchester United,81	     
+Tottenham,77	     
+Liverpool,75	     
+Chelsea,70	     
+Arsenal,63	     
+Burnley,54	     
+Everton,49	     
+Leicester,47	     
+Newcastle,44	     
+Crystal Palace,44	     
+Bournemouth,44	     
+West Ham,42	     
+Watford,41	     
+Brighton,40	     
+Huddersfield,37	     
+Southampton,36	     
+Swansea,33	     
+Stoke,33	     
+West Brom,31
+Arsenal,63	     

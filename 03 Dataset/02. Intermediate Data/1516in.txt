@@ -1,0 +1,554 @@
+Arsenal,61.8,2
+Bournemouth,58.4,1
+Chelsea,52,2
+Swansea,48,2
+Everton,66.6,2
+Watford,33.4,2
+Leicester,44,4
+Sunderland,56,2
+Manchester United,50,1
+Tottenham,50,1
+Newcastle United,56.3,2
+Southampton,43.7,2
+Norwich,62.9,1
+Crystal Palace,37.1,3
+Stoke,47,1
+West Bromwich Albion,30.9,3
+Aston Villa,45.6,1
+Crystal Palace,40.8,1
+Arsenal,59.2,2
+Liverpool,54.9,1
+Bournemouth,45.1,3
+Chelsea,50.8,3
+Sunderland,43.9,1
+Norwich,56.1,3
+Swansea,65.8,2
+Newcastle United,34.2,2
+Stoke,46.8,2
+Watford,63.9,1
+Leicester,30.2,2
+Arsenal,59.6,4
+Aston Villa,40.4,1
+Chelsea,54,1
+Leicester,46,1
+Everton,45.4,3
+Norwich,54.6,3
+Bournemouth,33.7,1
+Newcastle United,38.5,5
+Tottenham,61.5,1
+Southampton,49.8,4
+Crystal Palace,50.2,1
+Stoke,46.7,2
+West Ham,53.3,1
+Swansea,50,1
+Manchester City,50,1
+Watford,54.2,2
+Sunderland,45.8,1
+West Bromwich Albion,32.6,1
+Liverpool,67.4,1
+Manchester City,52.8,4
+Crystal Palace,47.2,1
+Aston Villa,52.8,1
+Sunderland,42.7,1
+Bournemouth,57.3,1
+Arsenal,51.4,2
+Bournemouth,48.6,2
+West Ham,49.3,1
+Watford,48.5,1
+Manchester City,51.5,2
+Southampton,51,2
+Liverpool,71.3,2
+Sunderland,28.7,2
+Watford,51.3,2
+Newcastle United,48.7,1
+Norwich,36.6,1
+Arsenal,63.4,1
+Newcastle United,52.3,1
+Chelsea,63.2,2
+Norwich,49.6,3
+West Bromwich Albion,44.2,2
+Stoke,54.3,1
+Stoke,58.4,1
+Crystal Palace,41.6,2
+Manchester City,65.9,1
+Leicester,34.1,3
+West Bromwich Albion,39.4,2
+Stoke,51.8,2
+Bournemouth,51.5,1
+West Bromwich Albion,35.4,1
+Tottenham,64.6,1
+Everton,51.3,3
+Stoke,48.7,4
+Stoke,45,2
+Liverpool,64.4,1
+West Bromwich Albion,31.1,2
+Manchester City,53.3,2
+Tottenham,57.7,3
+West Ham,50.8,1
+Everton,49.2,1
+Aston Villa,45.8,2
+Leicester,39.3,1
+Watford,43.3,1
+Crystal Palace,48.7,1
+Watford,35.1,3
+Liverpool,64.9,1
+West Ham,64.8,1
+West Bromwich Albion,39.1,1
+Tottenham,61.3,3
+Aston Villa,38.7,1
+Chelsea,64.4,1
+Norwich,35.6,2
+Manchester United,56.5,1
+Manchester United,66.8,4
+Sunderland,33.4,1
+Bournemouth,48.7,1
+West Ham,51.3,3
+West Bromwich Albion,32.6,1
+Bournemouth,67.4,2
+Stoke,65.5,3
+Leicester,36.1,2
+Liverpool,63.9,3
+Sunderland,27.5,1
+Watford,50.6,2
+West Ham,49.4,1
+Crystal Palace,43.8,1
+Southampton,56.2,2
+Aston Villa,51.8,1
+Swansea,51.2,2
+Sunderland,48.8,4
+Aston Villa,59.1,1
+West Ham,40.9,1
+Swansea,58.5,1
+Crystal Palace,41.5,1
+Norwich,45.8,3
+Chelsea,62.9,1
+West Bromwich Albion,47.7,2
+Leicester,52.3,3
+Everton,59.9,4
+Aston Villa,40.1,2
+Chelsea,65.6,1
+Sunderland,42.3,1
+Crystal Palace,36.1,1
+Tottenham,63.9,3
+Liverpool,59.5,3
+Arsenal,40.5,3
+Bournemouth,55.2,1
+Watford,34.1,1
+Everton,62,1
+Crystal Palace,38,1
+Arsenal,54.9,1
+Tottenham,45.1,1
+Manchester City,58.4,1
+Liverpool,41.6,4
+Liverpool,70.4,2
+West Bromwich Albion,29.6,2
+Watford,37.5,1
+Tottenham,62.5,2
+Everton,59.7,1
+Swansea,40.3,2
+Chelsea,61.1,2
+West Bromwich Albion,38.9,2
+Chelsea,62.4,2
+Watford,37.6,2
+Arsenal,72.1,2
+Leicester,27.9,1
+Watford,45,3
+Manchester City,53,2
+Swansea,47,1
+West Bromwich Albion,51.7,1
+Newcastle United,48.3,3
+Stoke,54.8,1
+Leicester,35.2,6
+West Ham,68,2
+Aston Villa,32,2
+Liverpool,60.2,1
+Bournemouth,67.3,1
+Southampton,58.2,1
+Norwich,41.4,1
+Everton,58.6,1
+West Ham,49.1,2
+Southampton,50.9,1
+Manchester United,55.4,1
+Newcastle United,54.2,3
+Manchester United,45.8,3
+Manchester City,66.4,4
+Sunderland,33.6,1
+Bournemouth,65.7,1
+Stoke,34.3,3
+Crystal Palace,50.6,1
+Bournemouth,49.4,2
+Southampton,63.1,1
+Aston Villa,36.9,1
+Leicester,41.3,2
+Watford,58.7,1
+Swansea,42.7,2
+Bournemouth,57.3,2
+Sunderland,48.6,1
+Arsenal,51,1
+Newcastle United,49,4
+Liverpool,52.1,5
+Southampton,50.6,2
+Watford,49.4,1
+Chelsea,54.9,5
+Newcastle United,45.1,1
+Manchester United,46.9,3
+Stoke,53.1,2
+Manchester City,53.5,1
+Crystal Palace,36.2,2
+Tottenham,55.8,4
+West Ham,44.2,1
+Tottenham,58.3,1
+Newcastle United,41.7,2
+Crystal Palace,39.8,3
+Stoke,64.4,3
+Norwich,35.6,1
+Southampton,35.2,4
+Arsenal,64.8,1
+Watford,46.1,2
+West Bromwich Albion,45.3,1
+Swansea,54.7,1
+Swansea,59,3
+Manchester United,67.7,2
+West Bromwich Albion,32.3,1
+Manchester United,56.4,2
+West Ham,46.7,1
+Tottenham,59.2,1
+Tottenham,61.7,1
+Stoke,41.5,2
+Manchester United,58.5,1
+Everton,55.8,3
+Newcastle United,44.2,1
+Swansea,67.1,2
+Arsenal,73,1
+Arsenal,37.3,2
+Manchester City,62.7,1
+Leicester,53.5,1
+Leicester,43.5,1
+Swansea,55.5,1
+West Bromwich Albion,44.5,1
+Tottenham,54,2
+Aston Villa,48.3,2
+Norwich,51.7,1
+Aston Villa,65.1,2
+Watford,34.9,3
+Chelsea,67.2,3
+Sunderland,32.8,1
+Manchester United,54.7,2
+Swansea,45.3,1
+Bournemouth,45.4,3
+Norwich,54.6,3
+Norwich,40.2,2
+West Ham,51.6,2
+Bournemouth,50.7,2
+Bournemouth,57.3,3
+Everton,42.7,3
+Everton,67.4,2
+Leicester,32.6,3
+Norwich,41.6,1
+Southampton,58.4,3
+Everton,45.1,3
+Sunderland,33.7,2
+Manchester United,66.3,1
+Chelsea,49.3,1
+Manchester United,50.7,1
+Crystal Palace,53.7,5
+Newcastle United,46.3,1
+Manchester United,69.2,1
+Norwich,30.8,2
+Sunderland,44.9,3
+Aston Villa,55.1,1
+Liverpool,53.3,1
+Swansea,54.4,1
+Leicester,31.1,1
+Manchester United,68.9,1
+Leicester,58.1,1
+Norwich,41.9,1
+Swansea,46.3,3
+Southampton,54.1,1
+Crystal Palace,57.8,2
+Stoke,42.2,1
+Chelsea,51.8,3
+Manchester City,53.2,4
+Stoke,46.8,3
+Everton,58.7,1
+Everton,49.3,1
+Southampton,50.7,1
+Arsenal,65.7,4
+Watford,44.4,2
+Liverpool,66.1,2
+Watford,33.9,2
+West Ham,56.5,2
+Crystal Palace,49.9,2
+Aston Villa,50.1,1
+Sunderland,29.8,2
+Arsenal,42.8,2
+Manchester United,66.2,1
+Aston Villa,33.8,2
+Tottenham,66.5,1
+West Bromwich Albion,33.5,1
+Norwich,33.1,1
+Newcastle United,34.5,3
+Swansea,65.5,1
+Tottenham,65.2,1
+West Ham,41.3,3
+Manchester United,58.7,2
+Sunderland,31.4,3
+Chelsea,68.6,1
+Norwich,64,3
+Manchester United,69.3,1
+Norwich,31.4,1
+Southampton,30.2,2
+Stoke,51.2,4
+Norwich,42.6,1
+Stoke,57.4,1
+Chelsea,47.3,2
+Tottenham,52.7,2
+West Ham,51.9,1
+Swansea,48.1,4
+West Bromwich Albion,56.7,1
+Sunderland,39.3,1
+Swansea,60.7,1
+Everton,56.5,2
+Bournemouth,43.5,1
+Aston Villa,42,2
+Southampton,58,4
+Watford,52,1
+Leicester,29.5,1
+Bournemouth,45.3,1
+Chelsea,54.7,4
+West Bromwich Albion,43.9,2
+Chelsea,56.1,3
+Newcastle United,49.5,1
+Crystal Palace,50.5,3
+Bournemouth,54.2,4
+Southampton,40.2,4
+Manchester City,59.8,2
+Leicester,38.3,4
+Swansea,61.7,2
+Sunderland,38,1
+Stoke,53.6,1
+Sunderland,46.4,1
+Liverpool,67,2
+Newcastle United,33,2
+Bournemouth,56.1,1
+Leicester,43.9,1
+Swansea,47.6,3
+Liverpool,52.4,1
+Chelsea,63.7,1
+Crystal Palace,36.3,2
+Watford,64.7,3
+Aston Villa,35.3,2
+Liverpool,62.7,3
+West Bromwich Albion,40.8,3
+Manchester City,58.7,2
+Watford,41.3,1
+Arsenal,73.7,1
+Bournemouth,68.6,1
+West Bromwich Albion,31.4,1
+Southampton,61.1,3
+Norwich,38.9,1
+Swansea,35.5,2
+Manchester United,64.5,1
+Tottenham,49.9,2
+Stoke,32.4,1
+Everton,38.8,3
+Chelsea,61.2,1
+Leicester,48.7,3
+Aston Villa,51.3,2
+Manchester United,55.7,3
+Liverpool,44.3,1
+Norwich,47.7,3
+Bournemouth,52.3,1
+Sunderland,43.9,1
+Watford,39.2,1
+Swansea,60.8,2
+Newcastle United,60.9,1
+Bournemouth,53.1,2
+Sunderland,46.9,2
+Arsenal,37.1,1
+Liverpool,58.9,1
+Norwich,41.1,1
+Manchester City,71.5,1
+West Ham,28.5,2
+Newcastle United,57.6,1
+Watford,42.4,2
+Southampton,40.8,2
+Manchester United,59.2,3
+Stoke,54.1,2
+Leicester,45.9,2
+Swansea,47.9,1
+Crystal Palace,42.9,2
+Arsenal,58,5
+Liverpool,62.4,3
+Aston Villa,37.6,2
+Manchester United,66.2,3
+Sunderland,33.8,2
+Chelsea,64.5,2
+Southampton,41.5,3
+Swansea,58.5,1
+Stoke,43.7,2
+Bournemouth,56.3,1
+Tottenham,46,4
+Manchester City,54,1
+Watford,55.3,1
+West Bromwich Albion,46,2
+Everton,54,3
+West Ham,42.9,2
+Norwich,57.1,2
+Arsenal,37.8,3
+Manchester United,62.2,1
+Bournemouth,54.4,1
+Watford,45.6,1
+Chelsea,60.2,1
+Southampton,39.8,3
+Crystal Palace,60.4,2
+West Bromwich Albion,39.6,1
+Liverpool,49.1,1
+Manchester City,64.3,6
+Newcastle United,35.7,1
+Norwich,66.2,1
+Leicester,33.8,2
+Sunderland,44.1,2
+West Ham,55.9,2
+Swansea,45.6,2
+Tottenham,54.4,2
+Chelsea,49,2
+Aston Villa,51,1
+Crystal Palace,38.5,1
+West Ham,61.5,3
+Everton,47.2,3
+Manchester City,54.4,5
+Bournemouth,45.6,1
+Newcastle United,44.2,6
+Norwich,55.8,2
+Southampton,50.6,2
+Leicester,49.4,2
+Swansea,54.1,1
+Tottenham,48.5,3
+West Bromwich Albion,56.2,1
+Sunderland,43.8,2
+Everton,43.8,1
+Aston Villa,47.9,1
+Swansea,52.1,2
+Bournemouth,45.8,1
+Tottenham,54.2,5
+Leicester,47.7,1
+Crystal Palace,52.3,1
+Southampton,39.7,1
+Manchester United,58.7,1
+Stoke,66.2,2
+Sunderland,39.7,3
+Newcastle United,60.3,2
+Chelsea,54.5,1
+Chelsea,42.6,1
+Liverpool,57.4,3
+Crystal Palace,44.6,6
+Sunderland,32.6,2
+Manchester City,70.8,2
+Norwich,29.2,1
+Stoke,55.3,1
+Newcastle United,44.7,4
+Everton,33.4,4
+Chelsea,48.7,1
+Stoke,51.3,1
+Stoke,60.6,1
+Southampton,39.4,2
+Manchester United,38.9,3
+Arsenal,61.1,2
+Leicester,46,1
+Southampton,54,1
+Liverpool,61.5,2
+Sunderland,37.7,3
+Everton,62.3,1
+Manchester City,56.8,1
+Liverpool,42.2,1
+Tottenham,57.8,1
+Everton,41.6,2
+West Ham,58.4,3
+West Ham,46.2,3
+Watford,53.8,1
+Southampton,34.6,1
+Chelsea,65.4,2
+Manchester United,54.4,1
+Everton,45.6,4
+Aston Villa,28.8,2
+West Ham,40.6,2
+Stoke,55.3,2
+Aston Villa,44.7,1
+Norwich,42.7,3
+Newcastle United,57.3,2
+Newcastle United,49.3,1
+Bournemouth,50.7,3
+Crystal Palace,55.9,1
+Tottenham,57.2,2
+Swansea,42.8,1
+Stoke,47.2,2
+Swansea,52.8,2
+Southampton,65.1,1
+Sunderland,34.9,1
+Everton,54.3,2
+Watford,46.9,1
+Norwich,44.2,1
+West Bromwich Albion,46.1,3
+Crystal Palace,53.9,2
+West Ham,66.6,2
+Crystal Palace,33.4,2
+Tottenham,51.8,2
+Arsenal,48.2,2
+Newcastle United,59.9,1
+Sunderland,40.1,1
+West Ham,52.8,1
+Sunderland,47.2,1
+Bournemouth,58.6,2
+Watford,50.2,1
+Southampton,49.2,3
+Liverpool,50.8,2
+Arsenal,62.6,1
+Swansea,37.4,2
+Crystal Palace,52,1
+Norwich,48,1
+Manchester United,53.4,1
+Aston Villa,46.2,1
+Everton,53.2,3
+Liverpool,52.9,4
+Stoke,47.1,1
+Arsenal,71.4,2
+West Bromwich Albion,28.6,3
+Bournemouth,37.2,2
+Southampton,54.6,2
+West Bromwich Albion,37.9,1
+Aston Villa,37.5,2
+Watford,52.1,1
+Stoke,47.9,2
+Leicester,65,2
+West Bromwich Albion,35,2
+Southampton,50.6,3
+Newcastle United,49.4,1
+Bournemouth,44,3
+Swansea,56,2
+West Bromwich Albion,50.1,1
+Norwich,47,1
+Chelsea,53,2
+Sunderland,44.8,2
+Leicester,49.9,1
+Newcastle United,50.1,4
+Watford,31,2
+Crystal Palace,40.8,2
+Swansea,39.3,1
+Chelsea,60.7,1
+Chelsea,44.7,1
+Aston Villa,41.7,4
+West Ham,34.9,1
+Tottenham,65.1,3
+Manchester United,53,2
+Crystal Palace,33.7,1
+Liverpool,49.6,3
+Manchester City,50.4,1
+Everton,58.1,1
+Manchester United,61.3,1
+Watford,38.7,3
+Arsenal,60.7,3
+Arsenal,71.7,1
+Crystal Palace,28.3,1
+Bournemouth,51.3,1
+Liverpool,48.7,2
